@@ -1,6 +1,7 @@
 package com.adecco.presentacion;
 
 
+import com.adecco.modelo.Area;
 import com.adecco.modelo.Empleado;
 import com.adecco.modelo.Gerente;
 
@@ -26,6 +27,11 @@ public class Main {
         System.out.println(e2.toString());
 
         Gerente g2 = new Gerente("Rosa",2_000f,null);
+
+        Area objAreas = new Area();
+        System.out.println("Probar a. circulo "+objAreas.areaCirculo(1f));
+        System.out.println("Probar a. rectangulo "+objAreas.areaRectangulo(3f, 7f));
+        ;
 
     }
 }

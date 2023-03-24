@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58f3b1eb-750a-420f-8a4c-223f7ed2ac95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adecco/modelo/Empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adecco/modelo/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adecco/modelo/Area.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/adecco/presentacion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adecco/presentacion/Main.java" afterDir="false" />
     </list>
@@ -71,6 +69,18 @@
       <option name="presentableId" value="Default" />
       <updated>1679649809462</updated>
     </task>
+    <task id="LOCAL-00001" summary="hasta las 11:32">
+      <created>1679653964537</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679653964538</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hasta las 11:32" />
+    <option name="LAST_COMMIT_MESSAGE" value="hasta las 11:32" />
   </component>
 </project>
