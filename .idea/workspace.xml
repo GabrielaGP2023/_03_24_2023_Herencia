@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58f3b1eb-750a-420f-8a4c-223f7ed2ac95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/adecco/modelo/Area.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adecco/presentacion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adecco/presentacion/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adecco/modelo/TablaMultiplicar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adecco/presentacion/ProbarTablaMultiplicar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ProbarTablaMultiplicar">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.adecco.presentacion.Main" />
       <module name="_03_24_2023_Herencia" />
@@ -54,8 +53,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProbarTablaMultiplicar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adecco.presentacion.ProbarTablaMultiplicar" />
+      <module name="_03_24_2023_Herencia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adecco.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProbarTablaMultiplicar" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -76,11 +89,19 @@
       <option name="project" value="LOCAL" />
       <updated>1679653964538</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hasta las 12:11">
+      <created>1679656326427</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679656326427</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hasta las 11:32" />
-    <option name="LAST_COMMIT_MESSAGE" value="hasta las 11:32" />
+    <MESSAGE value="hasta las 12:11" />
+    <option name="LAST_COMMIT_MESSAGE" value="hasta las 12:11" />
   </component>
 </project>
